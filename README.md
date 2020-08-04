@@ -1,2 +1,2 @@
-# pgoto-sort
+# photo-sort
 sort photos
